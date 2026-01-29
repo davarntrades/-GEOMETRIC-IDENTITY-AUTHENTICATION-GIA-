@@ -18,11 +18,11 @@ $$\boxed{\text{Identity} = \text{Topology}\big(\text{Reach}(X_0, U, t)\big)}$$
 -----
 
 [![Creator](https://img.shields.io/badge/Inventor-Davarn_Morrison-orange?style=flat-square)](https://www.linkedin.com/in/davarn-morrison-14b93b263)
-[![Patent](https://img.shields.io/badge/Patent-GB2600765.8-purple?style=flat-square)](#)
+[![Patent](https://img.shields.io/badge/Patent-GB2602013.1-purple?style=flat-square)](#)
 [![Market](https://img.shields.io/badge/TAM-$355B+_annually-green?style=flat-square)](#)
 
 **Invented by:** [Davarn Morrison](https://www.linkedin.com/in/davarn-morrison-14b93b263)  
-**Patent:** GB2600765.8 (Pending)  
+**Patent:** GB2602013.1 (Pending)  
 **Filed:** January 2026
 
 </div>
@@ -559,7 +559,7 @@ def CheckForbiddenIdentityRegions(Top_obs, Ω_ID):
 |**2FA/OTP**                |✅ Yes               |✅ Yes (intercept)  |❌ No patent      |💀 Compromised       |
 |**Behavioral**             |✅ Yes               |✅ Yes (AI mimicry) |❌ No patent      |💀 Defeated          |
 |**Cryptographic**          |⚠️ Quantum risk      |✅ Yes (stolen keys)|❌ No patent      |⚠️ Vulnerable        |
-|**GIA (Geometric)**        |❌ **NO**            |❌ **IMPOSSIBLE**   |✅ **GB2600765.8**|✅ **ONLY SOLUTION** |
+|**GIA (Geometric)**        |❌ **NO**            |❌ **IMPOSSIBLE**   |✅ **GB2602013.1**|✅ **ONLY SOLUTION** |
 
 </div>
 
@@ -761,7 +761,7 @@ Inventor, Geometric Identity Authentication (GIA™)
 Email: Davarn.trades@gmail.com  
 LinkedIn: [linkedin.com/in/davarn-morrison-14b93b263](https://www.linkedin.com/in/davarn-morrison-14b93b263)
 
-**Patent:** GB2600765.8 (Pending)  
+**Patent:** GB2602013.1 (Pending)  
 **Filed:** January 2026  
 **Status:** Available for licensing
 
@@ -788,7 +788,7 @@ $$\boxed{\text{Identity} = \text{Topology}\big(\text{Reach}(X_0, U, t)\big)}$$
 -----
 
 ![Deepfake](https://img.shields.io/badge/DEEPFAKES-MATHEMATICALLY_IMPOSSIBLE-2ecc71?style=for-the-badge)
-![Patent](https://img.shields.io/badge/UK_PATENT-GB2600765.8-9B59B6?style=for-the-badge)
+![Patent](https://img.shields.io/badge/UK_PATENT-GB2602013.1-9B59B6?style=for-the-badge)
 ![Market](https://img.shields.io/badge/TAM-$355B+_annually-green?style=for-the-badge)
 
 -----
@@ -798,7 +798,7 @@ $$\boxed{\text{Identity} = \text{Topology}\big(\text{Reach}(X_0, U, t)\big)}$$
 
 **© 2025-2026 Davarn Morrison — All Rights Reserved**
 
-**Patent:** GB2600765.8 (Pending)
+**Patent:** GB2602013.1 (Pending)
 
 **“When passwords fail, when biometrics break, when deepfakes defeat everything else—only geometry remains.”**
 
